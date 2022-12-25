@@ -1,3 +1,9 @@
+<style>
+p{
+    color:red;
+    }
+    
+</style>
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
