@@ -26,7 +26,7 @@
 </p>
 
 <h2> My Github Trophies </h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
 
 <h2> My Blogs posts </h2>
 ### Blogs posts
