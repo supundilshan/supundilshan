@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="Images/GIF/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/sdelpagoda" target="blank"><img src="https://img.shields.io/twitter/follow/sdelpagoda?logo=twitter&style=for-the-badge" alt="sdelpagoda" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET MySQL, MongoDB**
 
 - 🤝 I’m looking for help with **ReactJS, NodeJS**
@@ -29,7 +27,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=email&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/supun-delpagoda" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
