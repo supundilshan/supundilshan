@@ -18,18 +18,18 @@
 
 - ⚡ Fun fact **Talk to me and I bet you will be addicted to my company**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/sdelpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdelpagoda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/supun-delpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun-delpagoda" height="30" width="40" /></a>
 <a href="https://medium.com/@supundelpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@supundelpagoda" height="30" width="40" /></a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h2> Skills </h2>
 <h3 align="left">Programming Languages:</h3>
