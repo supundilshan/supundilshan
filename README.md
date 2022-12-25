@@ -128,6 +128,8 @@
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
+<h2> My GitHub stats</h2>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supundilshan&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supundilshan&theme=default)
 
