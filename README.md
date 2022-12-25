@@ -1,4 +1,4 @@
-[![MasterHead](Images/banner.jpg)]
+![MasterHead](Images/banner.jpg)
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate Software developer</h3>
 
