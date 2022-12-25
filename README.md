@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/supun-delpagoda/">
-    <img src="https://img.shields.io/badge/dupun-delpagoda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/supun-delpagoda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@supundelpagoda">
     <img src="https://img.shields.io/badge/supundelpagoda-12100E?style=for-the-badge&logo=medium&logoColor=white" />
