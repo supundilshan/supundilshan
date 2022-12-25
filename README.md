@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate Software developer</h3>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 <p align="left"> <a href="https://twitter.com/sdelpagoda" target="blank"><img src="https://img.shields.io/twitter/follow/sdelpagoda?logo=twitter&style=for-the-badge" alt="sdelpagoda" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET MySQL, MongoDB**
