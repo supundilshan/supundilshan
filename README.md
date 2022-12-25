@@ -18,7 +18,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<img src="https://img.shields.io/badge/Gmailss-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <div id="badges">
   <a href="your-linkedin-URL"> lnhh
