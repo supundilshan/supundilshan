@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend and Backend Development, Databases**
 
-- 📫 How to reach me **supundilshandelpagoda@gmail.com**
+- 📫 How to reach me **[supundilshandelpagoda@gmail.com](https://www.linkedin.com/in/supun-delpagoda)**
 
 - ⚡ Fun fact **Talk to me and I bet you will be addicted to my company**
 
