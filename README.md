@@ -35,7 +35,7 @@
 
 <p align="left">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="40" height="40"
-        style="padding-left: 100px;" />
+        style="padding: 100px;" />
     <img src="Images/Languages/java.svg" alt="java" width="40" height="40"
         style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Languages/python.svg" alt="python" width="40" height="40"
