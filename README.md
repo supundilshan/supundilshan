@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Talk to me and I bet you will be addicted to my company**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
