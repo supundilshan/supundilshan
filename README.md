@@ -1,6 +1,6 @@
 <style>
     img {
-        padding-left: 10px;
+        padding-left: 100px;
         padding-right: 20px;
     }
 </style>
