@@ -1,3 +1,10 @@
+<style>
+    img {
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
@@ -20,13 +27,6 @@
 <a href="https://twitter.com/sdelpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdelpagoda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/supun-delpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun-delpagoda" height="30" width="40" /></a>
 </p>
-
-<style>
-    img {
-        padding-left: 10px;
-        padding-right: 20px;
-    }
-</style>
 
 <h2> Skills </h2>
 <h3 align="left">Programming Languages:</h3>
