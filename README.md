@@ -18,7 +18,14 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="your-linkedin-URL"> lnhh
+    <img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 <div id="badges">
   <a href="your-linkedin-URL"> lnhh
