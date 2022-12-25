@@ -1,7 +1,5 @@
 <style>
-p{
-    color:red;
-    }
+p{color:red;}
     
 </style>
 <h1 align="center">Hi 👋, I'm Supun</h1>
