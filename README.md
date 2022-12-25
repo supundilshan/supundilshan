@@ -18,27 +18,15 @@
 
 <h2 align="left">Connect with me:</h2>
 
-  <a href="supundilshandelpagoda@gmail.com"> lnhh
+  <a href="supundilshandelpagoda@gmail.com">
     <img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/supun-delpagoda/"> lnhh
+  <a href="https://www.linkedin.com/in/supun-delpagoda/">
     <img src="https://img.shields.io/badge/dupun-delpagoda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@supundelpagoda"> lnhh
+  <a href="https://medium.com/@supundelpagoda">
     <img src="https://img.shields.io/badge/supundelpagoda-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-
-<div id="badges">
-  <a href="your-linkedin-URL"> lnhh
-    <img src="https://img.shields.io/badge/Supun Delpagoda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/supundilshandelpagoda@gmail.com-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <h2> My Github Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
