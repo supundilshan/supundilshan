@@ -51,42 +51,42 @@
 <h3 align="left">Artificial Intelligence /Machine Learning:</h3>
 
 <p align="left">
-    <img src="Images/AI_ML/tensorflow.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/AI_ML/Keras.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/AI_ML/PyTorch.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/AI_ML/opencv.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/AI_ML/pandas.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/AI_ML/Scikit_learn.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/tensorflow.svg" alt="tensorflow" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/Keras.svg" alt="Keras" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/PyTorch.svg" alt="PyTorch" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/opencv.svg" alt="opencv" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/pandas.svg" alt="pandas" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/AI_ML/Scikit_learn.svg" alt="Scikit_learn" width="40" height="40" style="margin: 5px;" />
 </p>
 
 <h3 align="left">Database:</h3>
 
 <p align="left">
-    <img src="Images/Database/mysql.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Database/mongodb.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Database/mysql.svg" alt="mysql" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Database/mongodb.svg" alt="mongodb" width="40" height="40" style="margin: 5px;" />
 </p>
 
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-    <img src="Images/Tools/github.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/git.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/dot-net.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/docker.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/AWS.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/flask.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/django.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/Tools/firebase.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/github.svg" alt="github" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/git.svg" alt="git" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/dot-net.svg" alt="dot-net" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/docker.svg" alt="docker" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/AWS.svg" alt="AWS" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/flask.svg" alt="flask" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/django.svg" alt="django" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/Tools/firebase.svg" alt="firebase" width="40" height="40" style="margin: 5px;" />
     <img src="Images/Tools/arduino.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
 </p>
 
 <h3 align="left">IDE:</h3>
 
 <p align="left">
-    <img src="Images/IDE/visual-studio-code.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/IDE/webstorm.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/IDE/visual-studio.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
-    <img src="Images/IDE/PyCharm.svg" alt="arduino" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/IDE/visual-studio-code.svg" alt="visual-studio-code" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/IDE/webstorm.svg" alt="webstorm" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/IDE/visual-studio.svg" alt="visual-studio" width="40" height="40" style="margin: 5px;" />
+    <img src="Images/IDE/PyCharm.svg" alt="PyCharm" width="40" height="40" style="margin: 5px;" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supundilshan&show_icons=true&locale=en&layout=compact" alt="supundilshan" /></p>
