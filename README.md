@@ -139,7 +139,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supundilshan&" alt="supundilshan" /></p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=supundilshan&theme=default&utcOffset=8)
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supundilshan&theme=default)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supundilshan&label=Profile%20views&color=0e75b6&style=flat" alt="supundilshan" /> </p>
