@@ -25,6 +25,7 @@
 <a href="https://medium.com/@supundelpagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@supundelpagoda" height="30" width="40" /></a>
 </p>
 
+<h2> My Github Trophies </h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
 
 ### Blogs posts
