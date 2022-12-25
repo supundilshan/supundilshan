@@ -1,5 +1,5 @@
 ![MasterHead](Images/banner.jpg)
-<h1 align="center">Hi 👋, I'm Supun</h1>
+<h1 align="center">Hi 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Supun Dilshan</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="Images/GIF/coding.gif">
