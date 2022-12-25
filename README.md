@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supundilshan&label=Profile%20views&color=0e75b6&style=flat" alt="supundilshan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sdelpagoda" target="blank"><img src="https://img.shields.io/twitter/follow/sdelpagoda?logo=twitter&style=for-the-badge" alt="sdelpagoda" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET MySQL, MongoDB**
@@ -132,3 +128,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supundilshan&show_icons=true&locale=en" alt="supundilshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supundilshan&" alt="supundilshan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supundilshan&label=Profile%20views&color=0e75b6&style=flat" alt="supundilshan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
