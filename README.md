@@ -20,6 +20,8 @@
 
 <h2 align="left">Connect with me:</h2>
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Supun Delpagoda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
