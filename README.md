@@ -28,11 +28,12 @@
 <h2> My Github Trophies </h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=supundilshan)](https://github.com/supundilshan/github-profile-trophy)
 
+<h2> My Blogs posts </h2>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2> Skills </h2>
+<h2> My Skills </h2>
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
