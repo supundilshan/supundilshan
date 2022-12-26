@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="Images/GIF/coding.gif">
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET MySQL, MongoDB**
+- 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET, MySQL, MongoDB**
 
 - 🤝 I’m looking for help with **ReactJS, NodeJS**
 
