@@ -4,13 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="Images/GIF/coding.gif">
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ASP.NET, MySQL, MongoDB**
-
-- 🤝 I’m looking for help with **ReactJS, NodeJS**
+- 🌱 I am working with  **ReactJS, Angular, NodeJS, NestJS, Databases**
 
 - 📝 I regularly write articles on [ReactJS, NodeJS, Database](ReactJS, NodeJS, Database)
 
-- 💬 Ask me about **Frontend and Backend Development, Databases**
+- 💬 Ask me about **Full-Stack Development with Javascript**
 
 - 📫 How to reach me **[Supun Delpagoda](https://www.linkedin.com/in/supun-delpagoda)**
 
