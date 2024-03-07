@@ -85,7 +85,10 @@
     <img src="Images/Tools/github.svg" alt="github" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/git.svg" alt="git" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/docker.svg" alt="docker" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/postman.svg" alt="postman" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/redux.svg" alt="redux" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+
 </p>
 
 <h2> My GitHub stats</h2>
