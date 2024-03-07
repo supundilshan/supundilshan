@@ -41,7 +41,7 @@
 
 <p align="left">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="30" height="30"
-        style="padding-left: 10px; padding-right: 500px; background-color: 'red'"/>
+        style="padding-left: 10px; padding-right: 500px;"/>
     <img src="Images/Languages/java.svg" alt="java" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Languages/python.svg" alt="python" width="30" height="30"
@@ -53,83 +53,83 @@
 <h3 align="left">Frontend Development:</h3>
 
 <p align="left">
-    <img src="Images/FrontEnd/react.svg" alt="react" width="40" height="40" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/redux.svg" alt="redux" width="40" height="40"
+    <img src="Images/FrontEnd/react.svg" alt="react" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/FrontEnd/redux.svg" alt="redux" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/html.svg" alt="html" width="40" height="40"
+    <img src="Images/FrontEnd/html.svg" alt="html" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/css.svg" alt="css" width="40" height="40"
+    <img src="Images/FrontEnd/css.svg" alt="css" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/bootstrap.svg" alt="bootstrap" width="40" height="40"
+    <img src="Images/FrontEnd/bootstrap.svg" alt="bootstrap" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Backend Development:</h3>
 
 <p align="left">
-    <img src="Images/BackEnd/nodejs.svg" alt="nodejs" width="40" height="40"
+    <img src="Images/BackEnd/nodejs.svg" alt="nodejs" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/BackEnd/express.svg" alt="express" width="40" height="40"
+    <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Artificial Intelligence /Machine Learning:</h3>
 
 <p align="left">
-    <img src="Images/AI_ML/tensorflow.svg" alt="tensorflow" width="40" height="40"
+    <img src="Images/AI_ML/tensorflow.svg" alt="tensorflow" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/Keras.svg" alt="Keras" width="40" height="40"
+    <img src="Images/AI_ML/Keras.svg" alt="Keras" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/PyTorch.svg" alt="PyTorch" width="40" height="40"
+    <img src="Images/AI_ML/PyTorch.svg" alt="PyTorch" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/opencv.svg" alt="opencv" width="40" height="40"
+    <img src="Images/AI_ML/opencv.svg" alt="opencv" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/pandas.svg" alt="pandas" width="40" height="40"
+    <img src="Images/AI_ML/pandas.svg" alt="pandas" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/Scikit_learn.svg" alt="Scikit_learn" width="40" height="40"
+    <img src="Images/AI_ML/Scikit_learn.svg" alt="Scikit_learn" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Database:</h3>
 
 <p align="left">
-    <img src="Images/Database/mysql.svg" alt="mysql" width="40" height="40"
+    <img src="Images/Database/mysql.svg" alt="mysql" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Database/mongodb.svg" alt="mongodb" width="40" height="40"
+    <img src="Images/Database/mongodb.svg" alt="mongodb" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-    <img src="Images/Tools/github.svg" alt="github" width="40" height="40"
+    <img src="Images/Tools/github.svg" alt="github" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/git.svg" alt="git" width="40" height="40" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/dot-net.svg" alt="dot-net" width="40" height="40"
+    <img src="Images/Tools/git.svg" alt="git" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/dot-net.svg" alt="dot-net" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/docker.svg" alt="docker" width="40" height="40"
+    <img src="Images/Tools/docker.svg" alt="docker" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/AWS.svg" alt="AWS" width="40" height="40" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/flask.svg" alt="flask" width="40" height="40"
+    <img src="Images/Tools/AWS.svg" alt="AWS" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/flask.svg" alt="flask" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/django.svg" alt="django" width="40" height="40"
+    <img src="Images/Tools/django.svg" alt="django" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/firebase.svg" alt="firebase" width="40" height="40"
+    <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/arduino.svg" alt="arduino" width="40" height="40"
+    <img src="Images/Tools/arduino.svg" alt="arduino" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">IDE:</h3>
 
 <p align="left">
-    <img src="Images/IDE/visual-studio-code.svg" alt="visual-studio-code" width="40" height="40"
+    <img src="Images/IDE/visual-studio-code.svg" alt="visual-studio-code" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/webstorm.svg" alt="webstorm" width="40" height="40"
+    <img src="Images/IDE/webstorm.svg" alt="webstorm" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/visual-studio.svg" alt="visual-studio" width="40" height="40"
+    <img src="Images/IDE/visual-studio.svg" alt="visual-studio" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/PyCharm.svg" alt="PyCharm" width="40" height="40"
+    <img src="Images/IDE/PyCharm.svg" alt="PyCharm" width="30" height="30"
         style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
