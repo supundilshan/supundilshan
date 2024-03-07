@@ -82,7 +82,7 @@
     <img src="Images/Tools/postman.svg" alt="postman" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/redux.svg" alt="redux" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/rabitmq.svg" alt="rabitmq" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/rabbitmq.svg" alt="rabitmq" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/redis.svg" alt="redis" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
