@@ -36,8 +36,8 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h3> Skills </h3>
-<h4 align="left">Programming Languages:</h4>
+<h2> Skills </h2>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="30" height="30"
@@ -53,7 +53,7 @@
 
 </p>
 
-<h3 align="left">Frontend Development:</h3>
+<h3 align="left">Frontend:</h3>
 
 <p align="left">
     <img src="Images/FrontEnd/angular.svg" alt="angular" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
@@ -64,7 +64,7 @@
     <img src="Images/FrontEnd/bootstrap.svg" alt="bootstrap" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
-<h3 align="left">Backend Development:</h3>
+<h3 align="left">Backend:</h3>
 
 <p align="left">
     <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
@@ -75,31 +75,17 @@
 <h3 align="left">Database:</h3>
 
 <p align="left">
-    <img src="Images/Database/mysql.svg" alt="mysql" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Database/mongodb.svg" alt="mongodb" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Database/mysql.svg" alt="mysql" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Database/mongodb.svg" alt="mongodb" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-    <img src="Images/Tools/github.svg" alt="github" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/github.svg" alt="github" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/git.svg" alt="git" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/dot-net.svg" alt="dot-net" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/docker.svg" alt="docker" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/AWS.svg" alt="AWS" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/flask.svg" alt="flask" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/django.svg" alt="django" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Tools/arduino.svg" alt="arduino" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/docker.svg" alt="docker" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">IDE:</h3>
