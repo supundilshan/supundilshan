@@ -31,15 +31,15 @@
 <h2> My Github Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
 
-<h2> My Blogs posts </h2>
+<!-- <h2> My Blogs posts </h2> -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h2> Skills </h2>
 <h3 align="left">Programming Languages:</h3>
 
-<p align="left" padding="10px">
+<p align="left">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="40" height="40"
         style="padding-left: 10px; padding-right: 20px;"/>
     <img src="Images/Languages/java.svg" alt="java" width="40" height="40"
