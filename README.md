@@ -67,10 +67,9 @@
 <h3 align="left">Backend Development:</h3>
 
 <p align="left">
-    <img src="Images/BackEnd/nodejs.svg" alt="nodejs" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/BackEnd/nestJs.svg" alt="nestJs" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/BackEnd/go.svg" alt="go" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Artificial Intelligence /Machine Learning:</h3>
