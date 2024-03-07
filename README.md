@@ -56,15 +56,12 @@
 <h3 align="left">Frontend Development:</h3>
 
 <p align="left">
+    <img src="Images/FrontEnd/angular.svg" alt="angular" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/FrontEnd/react.svg" alt="react" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/redux.svg" alt="redux" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/html.svg" alt="html" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/css.svg" alt="css" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/FrontEnd/bootstrap.svg" alt="bootstrap" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/FrontEnd/html.svg" alt="html" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/FrontEnd/css.svg" alt="css" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/FrontEnd/tailwind.svg" alt="tailwind" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/FrontEnd/bootstrap.svg" alt="bootstrap" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Backend Development:</h3>
