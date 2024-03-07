@@ -46,8 +46,6 @@
         style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Languages/python.svg" alt="python" width="40" height="40"
         style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Languages/cplus.svg" alt="cplus" width="40" height="40"
-        style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Frontend Development:</h3>
