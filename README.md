@@ -88,19 +88,6 @@
     <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
-<h3 align="left">IDE:</h3>
-
-<p align="left">
-    <img src="Images/IDE/visual-studio-code.svg" alt="visual-studio-code" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/webstorm.svg" alt="webstorm" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/visual-studio.svg" alt="visual-studio" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/IDE/PyCharm.svg" alt="PyCharm" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-</p>
-
 <h2> My GitHub stats</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supundilshan&theme=default)
