@@ -2,13 +2,13 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Supun Dilshan</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<img align="right" alt="Coding" width="400" src="Images/GIF/coding.gif">
+<img align="right" alt="Coding" width="300" src="Images/GIF/coding.gif">
 
-- 🌱 I am working with  **ReactJS, Angular, NodeJS, NestJS, Databases**
+- 🌱 I am working with  **Angular, ReactJS, NestJS, ExpressJs Golang, MySQL and MongoDB**
 
-- 📝 I regularly write articles on [ReactJS, NodeJS, Database](ReactJS, NodeJS, Database)
+- 📝 I regularly write articles on Angular, ReactJS, NodeJS, Database
 
-- 💬 Ask me about **Full-Stack Development with Javascript**
+- 💬 Ask me about **Responsive designs, UI route management, UI permission management, Modularization of components, Service-Oriented architecture, Angular resolvers, Interceptors, API permission management, Microservices**
 
 - 📫 How to reach me **[Supun Delpagoda](https://www.linkedin.com/in/supun-delpagoda)**
 
@@ -28,7 +28,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=supundilshan&label=Profile%20views&color=0e75b6&style=flat" alt="supundilshan" /> </p>
 
-<h2> My Github Trophies </h2>
+<h2> Github Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supundilshan" alt="supundilshan" /></a> </p>
 
 <!-- <h2> My Blogs posts </h2> -->
@@ -40,17 +40,11 @@
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-    <img src="Images/Languages/javascript.svg" alt="javascript" width="30" height="30"
-        style="padding-left: 10px; padding-right: 500px;"/>
-    <img src="Images/Languages/typescript.svg" alt="typescript" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Languages/go.svg" alt="golang" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Languages/java.svg" alt="java" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/Languages/python.svg" alt="python" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-
+    <img src="Images/Languages/javascript.svg" alt="javascript" width="30" height="30" style="padding-left: 10px; padding-right: 500px;"/>
+    <img src="Images/Languages/typescript.svg" alt="typescript" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Languages/go.svg" alt="golang" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Languages/java.svg" alt="java" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/Languages/python.svg" alt="python" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Frontend:</h3>
@@ -88,10 +82,9 @@
     <img src="Images/Tools/postman.svg" alt="postman" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/redux.svg" alt="redux" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Tools/firebase.svg" alt="firebase" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-
 </p>
 
-<h2> My GitHub stats</h2>
+<h2> GitHub stats</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supundilshan&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supundilshan&theme=default)
