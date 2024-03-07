@@ -37,7 +37,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h2> Skills </h2>
-<h3 align="left">Programming Languages:</h3>
+<h4 align="left">Programming Languages:</h4>
 
 <p align="left">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="30" height="30"
@@ -70,23 +70,6 @@
     <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/BackEnd/nestjs.svg" alt="nestJs" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/BackEnd/go.svg" alt="go" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-</p>
-
-<h3 align="left">Artificial Intelligence /Machine Learning:</h3>
-
-<p align="left">
-    <img src="Images/AI_ML/tensorflow.svg" alt="tensorflow" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/Keras.svg" alt="Keras" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/PyTorch.svg" alt="PyTorch" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/opencv.svg" alt="opencv" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/pandas.svg" alt="pandas" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/AI_ML/Scikit_learn.svg" alt="Scikit_learn" width="30" height="30"
-        style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
 <h3 align="left">Database:</h3>
