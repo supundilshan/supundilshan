@@ -40,8 +40,8 @@
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
-    <img src="Images/Languages/javascript.svg" alt="javascript" width="20" height="20" margin="20"
-        style="padding-left: 10px; padding-right: 20px;"/>
+    <img src="Images/Languages/javascript.svg" alt="javascript" width="20" height="20"
+        style="padding-left: 100px; padding-right: 20px;"/>
     <img src="Images/Languages/java.svg" alt="java" width="20" height="20"
         style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/Languages/python.svg" alt="python" width="20" height="20"
