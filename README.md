@@ -36,7 +36,7 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h2> Skills </h2>
+<h3> Skills </h3>
 <h4 align="left">Programming Languages:</h4>
 
 <p align="left">
