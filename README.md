@@ -68,7 +68,7 @@
 
 <p align="left">
     <img src="Images/BackEnd/express.svg" alt="express" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
-    <img src="Images/BackEnd/nestJs.svg" alt="nestJs" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
+    <img src="Images/BackEnd/nestjs.svg" alt="nestJs" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
     <img src="Images/BackEnd/go.svg" alt="go" width="30" height="30" style="padding-left: 10px; padding-right: 20px;" />
 </p>
 
