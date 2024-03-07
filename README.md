@@ -36,10 +36,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h2> My Skills </h2>
+<h2> Skills </h2>
 <h3 align="left">Programming Languages:</h3>
 
-<p align="left">
+<p align="left" padding="10px">
     <img src="Images/Languages/javascript.svg" alt="javascript" width="40" height="40"
         style="padding-left: 10px; padding-right: 20px;"/>
     <img src="Images/Languages/java.svg" alt="java" width="40" height="40"
